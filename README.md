@@ -16,8 +16,10 @@ There are no dependencies, simply clone the game with
 
 or [download it here](https://github.com/KatharinaXeniaKufieta/frontend-nanodegree-arcade-game/archive/master.zip).
 
-## Known issues
-The board (at least the special tiles such as gems) should be reset when the player collides with a bug, or when the game is over and is reset again to the initial setup.
+## Known issues / TO DO
+
+1. The board (at least the special tiles such as gems) should be reset when the player collides with a bug, or when the game is over and is reset again to the initial setup.
+2. Utilize more of the graphic assets: Let the user choose the player, make it clearer that the star means you can kill bugs now, give the gems special powers, make the game generally more interesting, challenging and fun.
 
 ## Author
 Game functionality was written by [Katharina Kufieta](https://www.linkedin.com/in/katharinakufieta).
