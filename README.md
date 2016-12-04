@@ -5,7 +5,7 @@ This project is part of the [Udacity Frontend Nanodegree](https://www.udacity.co
 The graphics and game engine were provided by Udacity.
 
 ## Play the game
-Play the game: [Bugs!](http://katharinaxeniakufieta.github.io/frontend-nanodegree-arcade-game/).
+Play the game: [Bugs!](http://kkufieta.github.io/arcadeGameBugs/).
 
 Move the hero by pressing the arrows Up, Down, Left or Right.
 Pause the game by pressing SPACE.
@@ -16,7 +16,7 @@ There are no dependencies, simply clone the game with
 
 `git clone https://github.com/KatharinaXeniaKufieta/frontend-nanodegree-arcade-game.git`
 
-or [download it here](https://github.com/KatharinaXeniaKufieta/frontend-nanodegree-arcade-game/archive/master.zip).
+or [download it here](https://github.com/kkufieta/arcadeGameBugs/archive/master.zip).
 
 ## TO DO / Collaboration sought to do
 
