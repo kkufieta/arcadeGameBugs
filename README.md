@@ -14,7 +14,7 @@ Avoid the bugs, collect the gems, hearts, keys and stars. When you get a star, y
 ## Download
 There are no dependencies, simply clone the game with
 
-`git clone https://github.com/KatharinaXeniaKufieta/frontend-nanodegree-arcade-game.git`
+`git clone https://github.com/kkufieta/arcadeGameBugs.git`
 
 or [download it here](https://github.com/kkufieta/arcadeGameBugs/archive/master.zip).
 
